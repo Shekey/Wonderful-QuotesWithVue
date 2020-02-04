@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+## Wonderful Quotes
+
+You can test it on this url: https://tender-lalande-607a47.netlify.com/
+
 ## Build Setup
 
 ``` bash
